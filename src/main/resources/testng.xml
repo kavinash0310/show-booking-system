@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <test name="Show Booking Tests">
+        <classes>
+            <class name="com.thinkify.show_booking_system.controller.UserControllerTest" />
+            <class name="com.thinkify.show_booking_system.service.UserServiceImplTest" />
+            <class name="com.thinkify.show_booking_system.controller.ShowControllerTest" />
+            <class name="com.thinkify.show_booking_system.service.ShowServiceImplTest" />
+            <class name="com.thinkify.show_booking_system.controller.BookingControllerTest" />
+            <class name="com.thinkify.show_booking_system.service.BookingServiceImplTest" />
+        </classes>
+    </test>
+</suite>

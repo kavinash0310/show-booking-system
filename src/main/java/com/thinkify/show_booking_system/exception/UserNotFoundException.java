@@ -1,0 +1,7 @@
+package com.thinkify.show_booking_system.exception;
+
+public class UserNotFoundException extends RuntimeException {
+    public UserNotFoundException(String message) {
+        super(message);
+    }
+}
